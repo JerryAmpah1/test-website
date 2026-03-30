@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - new-page.qmd
-      - this-is-the-the-page-of-many.qmd
+      - Colonial Representation.qmd
       - about.qmd
 
 format:
