@@ -1,13 +1,15 @@
 ---
-title: "test-website"
+title: "Representation and Identity"
 ---
 
-This is a Quarto website.
+*African streets are largely represented through various lens, which greatly influence how people perceived the actual identity of the street as an original space*
+
+**African Representation**
 
 To learn more about Quarto websites [visit](https://quarto.org/docs/websites).
 
 
-This is **bold** or *italics*
+ 
 ```{r}
-1 + 1
+"this is an exploration of Gold Coast Streets"
 ```

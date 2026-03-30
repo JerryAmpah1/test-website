@@ -2,17 +2,19 @@ project:
   type: website
 
 website:
-  title: "test-website"
+  title: "Street Culture in the Gold Coast"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - new-page.qmd
+      - this-is-the-the-page-of-many.qmd
       - about.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - journal
       - brand
     css: styles.css
     toc: true
